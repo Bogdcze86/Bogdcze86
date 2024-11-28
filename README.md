@@ -2,8 +2,10 @@
 I study Computer Science at the Silesian University of Technology (Politechnika Śląska) in Poland  
 I'm also interested in Cybersecurity.  
 
-📫 Here is my contact information:  
-Email: bogdan.czech86@gmail.com
+### 📫 Here is my contact information:  
+Email: bogdan.czech86@gmail.com  
+
+<p align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Bogdcze86&show_icons=true&locale=en&layout=compact&theme=tokyonight"/> </p>
 <!--
 **Bogdcze86/Bogdcze86** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
