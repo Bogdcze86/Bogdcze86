@@ -1,5 +1,5 @@
 ## Hello, I'm Bogdan! 👋
-I study Computer Science at the Silesian University of Technology (Politechnika Śląska) in Poland  
+I study Computer Science at the Silesian University of Technology (Politechnika Śląska) in Poland.  
 I'm also interested in Cybersecurity.  
 
 ### 📫 Here is my contact information:  
